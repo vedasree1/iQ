@@ -1,0 +1,1 @@
+print ({"name":"abc", "hobby":"coding", "age":"25"} ["name"])
